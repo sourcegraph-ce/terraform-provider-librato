@@ -3,7 +3,7 @@ package terraform
 import (
 	"fmt"
 	"io"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"sync"
 
 	"github.com/hashicorp/go-multierror"

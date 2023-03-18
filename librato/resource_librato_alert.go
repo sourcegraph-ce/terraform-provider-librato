@@ -3,7 +3,7 @@ package librato
 import (
 	"bytes"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"math"
 	"strconv"
 	"time"
