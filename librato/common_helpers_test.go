@@ -1,7 +1,7 @@
 package librato
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"testing"
 	"time"
 )

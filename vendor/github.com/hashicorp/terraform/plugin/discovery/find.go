@@ -2,7 +2,7 @@ package discovery
 
 import (
 	"io/ioutil"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"path/filepath"
 	"strings"
 )
